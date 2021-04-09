@@ -168,7 +168,7 @@ const questions = [
   {
     question: "What is 7 * 18?",
     answers: [
-      { text: "306", correct: true },
+      { text: "126", correct: true },
       { text: "178", correct: false },
       { text: "280", correct: false },
       { text: "409", correct: false },
@@ -288,7 +288,7 @@ const questions = [
       { text: "301", correct: false },
       { text: "299", correct: false },
       { text: "184", correct: false },
-      { text: "280", correct: true },
+      { text: "283", correct: true },
     ],
   },
   {
@@ -330,10 +330,10 @@ const questions = [
   {
     question: "What is 88 / 8?",
     answers: [
-      { text: "8", correct: true },
+      { text: "8", correct: false },
       { text: "13", correct: false },
       { text: "76", correct: false },
-      { text: "11", correct: false },
+      { text: "11", correct: true },
     ],
   },
   {
